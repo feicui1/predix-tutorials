@@ -24,6 +24,6 @@ Open security-starter/app/uaaConfig.json and enter the UAA URL.
 npm install -g bower gulp
 gulp serve
 ```
-#### Login as Admin
+#### [Login as Admin](#login-as-admin)
 Enter the admin secret you created earlier.  After logging in, you'll be able to configure your instance of UAA .
 #### Do more stuff
