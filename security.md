@@ -26,10 +26,10 @@ npm install -g bower gulp
 gulp serve
 ```
 </div>
-<div>
+<section>
 #### Login as Admin
 Enter the admin secret you created earlier.  After logging in, you'll be able to configure your instance of UAA .
-</div>
+</section>
 #### Do more stuff
 
 ### asdf
