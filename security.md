@@ -19,13 +19,17 @@ cf bind-service ...
 `git clone https://github.com/PredixDev/security-starter.git`
 
 Open security-starter/app/uaaConfig.json and enter the UAA URL.
+<div>
 #### Run Security Starter Kit
 ```
 npm install -g bower gulp
 gulp serve
 ```
-#### [Login as Admin](#login-as-admin)
+</div>
+<div>
+#### Login as Admin
 Enter the admin secret you created earlier.  After logging in, you'll be able to configure your instance of UAA .
+</div>
 #### Do more stuff
 
 ### asdf
