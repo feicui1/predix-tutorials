@@ -1,6 +1,14 @@
 ## Predix UAA Security
 
+### Prerequisites
+* Predix Beta access
+* Node
+* Git
+
+### Overview
 Use the [Predix Security Starter Kit](https://github.com/PredixDev/security-starter) along with this tutorial to quickly secure your Predix application.
+
+### Tutorial Steps
 
 #### Create UAA service instance
 `cf create-service predix-uaa`
